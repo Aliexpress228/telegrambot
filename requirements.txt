@@ -1,0 +1,4 @@
+pytelegrambotapi
+requirements
+AudioSegment
+fuzzywuzzy
