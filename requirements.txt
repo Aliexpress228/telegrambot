@@ -1,4 +1,4 @@
 pytelegrambotapi
-requirements
+requests
 AudioSegment
 fuzzywuzzy
